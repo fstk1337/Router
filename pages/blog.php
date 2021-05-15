@@ -1,0 +1,2 @@
+<?php
+echo "<h1>Blog page</h1>";
